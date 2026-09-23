@@ -57,8 +57,6 @@
 
 <div align="center">
   <!-- STATS & TOP LANGS CARDS -->
-  <a href="https://github.com/JoaoAlmeida02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlmeida02&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&border_color=7000ff&bg_color=0D1117" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlmeida02&layout=compact&theme=tokyonight&hide_border=false&border_color=7000ff&bg_color=0D1117" alt="Top Languages" />
   </a>
 
@@ -67,16 +65,6 @@
   <!-- STREAK STATS -->
   <a href="https://github.com/JoaoAlmeida02">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlmeida02&theme=tokyonight&hide_border=false&border=7000ff&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-### Conquistas & Trofeus
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoaoAlmeida02&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
