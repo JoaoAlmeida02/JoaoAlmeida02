@@ -31,15 +31,15 @@
 
 ```json
 {
-  "nome": "Joao",
+  "nome": "João",
   "funcao": "Desenvolvedor de Software",
   "foco_atual": "Fullstack / Arquitetura de Sistemas",
-  "hobbies": ["Programar", "Games", "Aprender Novas Tecnologias", "Cafe"],
+  "hobbies": ["Programar", "Games", "Aprender Novas Tecnologias", "Café"],
   "meta": "Impactar pessoas atraves de codigo bem estruturado"
 }
 ```
 
-- Atualmente trabalhando e desenvolvendo projetos de impacto
+- Atualmente trabalhando e desenvolvendo projetos de impacto 
 - Aprimorando conhecimentos em arquitetura escalavel, boas praticas e novas stacks
 - Aberto para conversar sobre tecnologia, ideias de projetos ou parcerias
 
