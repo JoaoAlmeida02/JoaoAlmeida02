@@ -63,7 +63,6 @@
   <br/><br/>
 
   <!-- STREAK STATS -->
-  <a href="https://github.com/JoaoAlmeida02">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlmeida02&theme=tokyonight&hide_border=false&border=7000ff&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
