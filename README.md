@@ -53,22 +53,6 @@
 
 ---
 
-### Estatisticas & Performance no GitHub
-
-<div align="center">
-  <!-- STATS & TOP LANGS CARDS -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlmeida02&layout=compact&theme=tokyonight&hide_border=false&border_color=7000ff&bg_color=0D1117" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <!-- STREAK STATS -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlmeida02&theme=tokyonight&hide_border=false&border=7000ff&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ### Snake Eating Contributions (Grafico Animado)
 
 <div align="center">
