@@ -1,6 +1,6 @@
 <div align="center">
   <!-- BANNER HEADER SVG COM EFEITO DINÂMICO E GRADIENTE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Olá,%20eu%20sou%20o%20João!%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Olá,%20eu%20sou%20o%20João!%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" alt="Header Banner" width="100%" />
 
   <!-- EFEITO DE DIGITAÇÃO DINÂMICO (TYPING SVG) -->
   <a href="https://git.io/typing-svg">
