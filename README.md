@@ -53,8 +53,8 @@
 
 ---
 
-### Snake Eating Contributions (Grafico Animado)
 
+### Snake Eating Contributions (Grafico Animado)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAlmeida02/JoaoAlmeida02/output/github-contribution-grid-snake-dark.svg">
@@ -62,9 +62,7 @@
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/JoaoAlmeida02/JoaoAlmeida02/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%"/>
 </div>
